@@ -33,10 +33,10 @@
                         <h2>Voici les résultats pour le mot <span class="to-guess"><?php if (isset($_GET['answer'])) { echo $last_word; } ?></span></h2>
                         <?php
                             if (isset($_GET['answer']) && $is_found) {
-                                echo '<h3 class="result-comment">Félicitations ! La traduction était bien <span class=\"to-guess\">' . $correct_translation . '</span></h3>';
+                                echo '<h3 class="result-comment">Félicitations ! La traduction était bien <span class=\"to-guess\">' . $last_translation . '</span></h3>';
                             } else if (isset($_GET['answer'])) {
                                 echo '<h3 class="result-comment">Raté !</h3>';
-                                echo "<h4 class=\"result-comment-translation\">La traduction correcte est : <span class=\"to-guess\">" . $correct_translation . '</span></h4>';
+                                echo "<h4 class=\"result-comment-translation\">La traduction correcte est : <span class=\"to-guess\">" . $last_translation . '</span></h4>';
                             }
                         ?>
                     </div>
