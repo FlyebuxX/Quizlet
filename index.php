@@ -13,7 +13,7 @@
     <title>Guess The Word</title>
 </head>
 <body>
-    <div id="container">
+    <main id="container">
         <div class="sidebar">
         </div>
         
@@ -43,6 +43,6 @@
                 </div>
                 </div>
         </div>
-    </div>
+    </main>
 </body>
 </html>
