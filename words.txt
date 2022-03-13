@@ -1,0 +1,499 @@
+das Geschirr:la vaisselle
+spülen:laver la vaisselle
+der Haushalt:le ménage
+sich beschweren:se plaindre
+weinen:pleurer
+wagen:oser
+die Windel:la chouche
+bequem:confortable
+abschaffen:abolir
+ungewöhnlich:inhabituel
+entlasten:délester
+komisch:bizarre
+unterbrechen:çnterrompre
+unterstützen:soutenir
+die Elternzeit:le congé parental
+befürchten:craindre
+der Blick:le regard
+aus diesem Grund:pour cette raison
+das heisst:c'est-à-dire
+betrachten:considérer
+umgehen:gérer
+beantragen: faire la demande
+auflösen:rompre
+eine Bilanz ziehen:faire le bilan
+angenehm:agréable
+die Entscheidung:la décision
+das Abseits:le hors-jeu
+der Vertrag:le contrat
+die Ausnahme:l'exception
+der Exot:la rareté
+einbüssen:perdre
+das Abstellgleis:la voie de garage
+erleben:vivre, connaître
+meiden:éviter
+das Vorurteil:le prégugé
+stossen:faire face
+die Beziehung:la relation
+unternehmen:entreprendre
+öffentlich:public
+die Abwechslung:la diversification
+verfügbar:disponible
+der Zustand:l'état
+vorfinden:trouver quelque chose
+stehlen:voler
+einsparen:économiser
+der Verkehr:la circulation
+die Versicherung:l'assurance
+abschliessen:souscrire
+verlangen:exiger
+die Beschwerde:la plainte
+die Vorschrift:la règle
+sich an die Vorschriften halten: suivre les règles
+unberechenbar:imprévisible
+leise:bas
+laut:bruyant
+abstellen:garer
+der Bürgersteig:le trottoir
+der Stau:l'embouteillage
+das Angebot:la proposition
+die Sicherheit: la sureté
+vorschlagen:proposer
+erhöhen:augmenter
+einführen:instaurer
+fordern:exiger
+fördern:favoriser
+die Wasserstoff-Energie: l'énergie hydrogène
+fliegen:voler
+der Vorort:la banlieue
+anbinden:relier
+bestellen:commander
+die Spionage:l'espionnage
+vielseitig:varié
+bewältigen:surmonter, maîtriser
+sich verausgaben:se dépenser
+sich entspannen:se détendre
+auf andere Gedanken kommen:penser à autre chose
+der Wirklichkeit:la réalité
+entfliehen:fuir
+das Gebirge:la montagne
+der Gehstock:le bâton de marche
+das Zelt:la tente
+die Erinnerung:le souvenir
+abspecken:maigrir
+breit:large
+geniessen:apprécier
+der Stiefel:la botte
+unbedingt:absolument
+natürlich:naturellement
+belastbar:résistant
+einschränken:limiter
+die Ausrüstung:l'équipement
+stören:déranger
+die Stellung:la position
+die Beschäftigung:l'occupation
+die Heimat:la patrie
+die Ferne:le lointain
+das Heimweh:le mal du pays
+abgelegen:excentré
+der Ausflug:l'excursion
+die Übernachtung:la nuitée
+in Gefahr bringen:mettre en danger
+die Belastung:la charge
+die Belastungsgrenze:la limite de charge
+verschmutzen:polluer
+bieten:offrir, proposer
+der Schutz:la protection
+die Schönheit:la beauté
+überwinden:surmonter
+das Viertel:le quartier
+die Stille:le calme
+die Einsamkeit:la solitude
+die Verpflegung:l'alimentation
+die Grausamkeit:la cruauté
+wickeln:langer
+üblich:habituel
+die Kündigung:le licenciement
+kündigen:licencier
+der Widerstand:l'opposition
+die Lebenserwartung:l'espérance de vie
+heilen:guérir
+pflegen:soigner
+bezahlt:payé
+lindern:soulager
+über etwas verfügen:disposer de
+die Rente:la pension
+schlimm:terrible
+angehören:appartenir à
+die Bekanntschaft:la connaissance
+die Kenntnis:la connaissance
+der Zusammenhang:le rapport
+unerwartet:inattendu
+ausstrahlen:répandre
+antreiben:entraîner
+die Geschwindigkeit:la vitesse
+die Reichweite:l'autonomie
+erreichbar:atteignable
+der Lärm: le bruit
+verbrauchen:consommer
+betriebsfähig:en exploitation
+der Boden:le sol
+steuern:piloter
+retten:sauver
+die Eigenschaft:la qualité
+mutig:courageux
+der Mut:le courage
+kräftig:fort
+sich durchsetzen:s'imposer
+das Volk:le peuple
+die Ungerechtigtkeit:l'injustice
+sich einsetzen: s'engager
+setzen:mettre
+sich opfern:se sacrifier
+der Beitrag:la contribution
+vorbildlich:exemplaire
+eifrig:avide
+der Ruhm:la gloire
+entschlossen:déterminé
+die Gefolgschfaft:l'obédience
+die Treue:la fidélité
+die Tugend:la vertu
+die Leistungsgesellschaft:la société à la recherche de la performance
+unverwundbar:invulnérable
+unbesiegbar:invincible
+tapfer:vaillant
+das Gewissen:la conscience
+oberflächlich:superficiel
+das Opfer:la victime
+sich etwas aussetzen:s'exposer à quelquechose
+jemanden betreuen:s'occuper de quelqu'un
+sich erheben:se lever
+eigenständig:autonome
+rechnen:calculer
+der Versuch:l'essai
+der Anhänger:l'adhérent
+abspecken:maigrir
+ausgeben:dépsenser
+die Ausrüstung:l'équipement
+auflösen:rompre
+ausstrahlen:diffuser
+bewältigen:maîtriser
+belastbar:résistant
+die Beschäftigung:l'occupation
+die Belastung:la charge
+bieten:offrir
+beantragen:demander
+befürchten:craindre
+sich beschweren:se plaindre
+beziehen:toucher quelquechose
+der Boden:le sol
+betriebsfähig:en état de marche
+sich durchsetzen:s'imposer
+einschränken:limiter
+erhalten:recevoir
+einbüssen:perdre
+entlasten:délester
+eifrig:avide
+die Herausforderung:l'enjeu
+leisten:se payer
+der Umzug:le déménagement
+übernehmen:endosser
+unehrlich:malhonnête
+sich wundern:s'étonner
+warten:attendre
+der Koffer:la valise
+der Flughafen:l'aéroport
+das Ausland:l'étranger
+die Geschäftsreise:le déplacement
+fremd:étranger
+erweitern:élargir
+anwenden:appliquer
+unvergesslich:inoubliable
+verständlich:intelligibile
+erzählen:raconter
+der Wolkenkratzer:le gratte-ciel
+empfehlen:recommander
+das Lokal:le bar
+malerisch:pittoresque
+die Sehenswürdigkeiten:les curiosités touristiques
+schlendern:déambuler
+bewundern:admirer
+sich erholen:se reposer
+die Prominenz:la personnalité
+ausprobieren:faire l'expérience
+ausleihen:emprunter
+der Eindruck:l'impression
+die Erfahrung:l'expérience
+sammeln:rassembler
+der Einblick:la connaissance
+das Denken:la pensée
+die Arbeitsweise:la méthode de travail
+begeistern:se passionner
+der Ehemann:le mari
+verheiraten:marier
+gründen:fonder
+fliehen:fuir
+wegen:à cause de
+entstehen:surgir
+gegenseitig:réciproque
+die Gemeinschaft:la communauté
+die Abgrenzung:la délimitation
+werfen:jeter
+die Nahrung:la nourriture
+verwechseln:confondre
+der Müll:le déchet
+der Becher:le gobelet
+die Flasche:la bouteille
+der Teller:l'assiette
+der Strohhalm:la paille
+die Schnauze:la gueule
+die Baumwolle:le coton
+statt:au lieu de
+verwenden:utiliser
+die Verpackung:l'emballage
+verlagern:déplacer
+die Pfand:la consigne
+die Steuer:l'impôt
+spenden:faire un don
+enthalten:contenir
+gesundheitsschädlich:malsain
+verschwinden:disparaître
+erst:seulement
+der Händler:le commerçant
+das Erdöl:le pétrole
+trennen:trier
+mehrmals:plusieurs fois
+untbehrlich:indispensable
+selten:rarement
+übernachten:passer la nuit
+anlassen:démarrer
+bestellen:commander
+verreisen:partir en voyage
+ausgeben:dépenser
+die Heuchelei:l'hyocrisie
+heuchlerisch:hypocrite
+energiefressend:énergivore
+abbaubar:dégradable
+ersetzen:remplacer
+künstlich:artificiel
+der Auszug:l'extrait
+die Notwendigkeit:la nécessité
+anfahren:renverser quelqu'un
+überfahren:écraser quelqu'un
+der Herzinfarkt:l'infarctus
+aufwachen:se réveiller
+der Vergangenheit:le passé
+die Gegenwart:le présent
+vorschreiben:prescrire
+putzen:nettoyer
+die Steuerung:le pilotage
+die Vertraulichkeit:la confidentialité
+der Schritt:le pas
+die Spur:la trace
+hinterlassen:laisser derrière soi
+der Fernsehen:le téléviseur
+anschauen:consulter
+orten:localiser
+überwachen:contrôler
+mobben:harceler
+einbrechen:cambrioler
+schlagen:frapper
+entführen:kidnapper
+unklug:imprudent
+riskant:risqué
+naiv:naïf
+leichtsinnig:insouciant
+gelungen:réussir
+übertreiben:exagérer
+sich richten:s'adresser
+der Bildschirm:l'écran
+das Ergebnis:le résultat
+die Standortverläufe:l'historique de localisation
+speichern:stocker
+erstellen:établir
+die Zustimmung:l'accord
+löschen:effacer
+preisgeben:révéler
+sich etwas bewusst machen: prendre conscience de quelque chose
+aufmerksam:attentif
+bestellen:commander
+gezielt:ciblé
+hinweisen:indiquer
+vorsichtig:prudent
+empfehlen:recommander
+erhalten:recevoir
+sich unterhalten:discuter
+die Ortung:la géolocalisation
+der Flüchtling:le réfugié
+die Folge:la conséquence
+die Fahne:le drapeau
+das Transparent:la banderole
+demonstrieren:manifester
+die Stimme:la voix
+abgeben:soumettre
+der Abgeordnete:le député
+die Gleichstellung:l'égalité
+das Gesetz:la loi
+eröffnen:ouvrir
+das Bankkonto:le compte bancaire
+um Erlaubnis bitten:demander l'autorisation
+übernehmen:prendre en charge
+brechen:briser
+sterben:mourir
+heben:soulever
+reissen:arrracher
+schmeissen:jeter
+schreiten:marcher
+streiten:se disputer
+fallen:tomber
+halten:tenir
+laden:charger
+geschehen:se produire
+aufpassen:faire attention
+ständig:en permanence
+abholen:aller chercher
+bestätigen:confirmer
+ausziehen:déménager
+beschliessen:décider
+basteln:bricoler
+unentbehrlich:indispensable
+aussteigen:se retirer de
+die Konsumgesellschaft:la société de consommation
+die Verschwendung:le gaspillage
+betrachten:contempler
+auswandern:émigrer
+der Ausflug:l'excursion
+die Unterkunft:l'hébergement
+die Macht:le pouvoir
+verlangen:revendiquer
+verhindern:empêcher
+gelangen:accéder
+das Amt:la fonction
+einsetzen:instaurer
+sich einsetzen:s'engager
+die Amtszeit:le mandat
+versprechen:promettre
+durchziehen:faire passer quelque chose
+die Erinnerung:le souvenir
+prägen:marquer
+sogar:même
+der Einfluss:l'influence
+selbstverständlich:évidemment
+vorbereiten:préparer
+hoffentlich:espérons
+irgendwann:à un moment donné
+erschaffen:crééer
+sich ausdrücken:s'exprimer
+die Trauer:la tristesse
+vermitteln:transmettre
+der Brand:l'incendie
+das Gemälde:le tableau
+fast:presque
+nackt:nu
+rudern:ramer
+oben:au-dessus
+neben:à coté de
+verherrlichen:exalter
+hervorheben:accentuer
+beitragen:contribuer
+der Schaden:le dégât
+das Baugerüst:l'échafaudage
+stellen:mettre
+abhängig:dépendant
+verbieten:censurer
+abstempeln:catégoriser de
+anerkennnen:reconnaître
+sich unterwerfen:se soumettre
+sterbend:mourant
+ausstrecken:étendre
+ershiessen:fusiller
+ermorden:assassiner
+der Hitlergruss:le salut nazi
+bedrückend:oppressant
+der Wut:le rage
+der Abscheu:l'horreur
+das Gesicht:le visage
+die Graüel:les atrocités
+die Gewaltätigkeit:la violence
+anprangern:fustiger
+aufrufen:appeler à
+das Misstrauen:la méfiance
+warnen:avertir
+untereinander:entre-eux
+hinweisen:indiquer
+das Zivilcourage:le civisime
+erinnern:rappeler
+die Brüderichkeit:la fraternité
+feiern:célébrer
+aufrechterhalten:maintenir
+das Opfer:la victime
+gedenken:commémorer
+die Mohnblume:le coquelicot
+der Kunststoff:la matière plastique
+die Gestalt:le personnage
+der Held:le héros
+die Heldin:l'héroïne
+der Schwur:le serment
+aussprechen:prononcer
+zum Nachdenken bringen:faire réfléchir
+Wiederstand leisten:résister à
+das Schlachtfeld:le champ de bataille
+die Rückkehr:le retour
+der Häftling:le prisonnier
+heben:soulever
+die Verbindung:la connexion
+das Band:le lien
+die Verpflichtung:l'engagement
+verfolgen:poursuivre
+die Veranstaltung:la fête
+der Nationalsozialismus:le nazisme
+leider:malheureusement
+der Erfolg:le succès
+das Kaiserreich:l'empire
+das Mitglied:le membre
+der Gegner:l'ennemi
+die Gewalt:la puissance
+die Machtübernahme:l'accession au pouvoir
+der Grund:la cause
+bezeichnen:dénommer
+die Haltung:l'attitude
+gesamt:entier
+herrschen:régner
+ausdrücken:exprimer
+ausbürgern:déchoir
+unterstützen:favoriser
+dies:ceci
+gewaltätig:violent
+ernennen:désigner
+ablehnen:refuser
+sich darauf ausruhen:se reposer sur ses acquis
+sich verteidigen:se défendre
+sich wehren:s'opposer
+die Vielfalt:la diversité
+das Gehaltsniveau:le niveau de salaire
+der Unterschied:la différence
+die Scheidung:le divorce
+sich scheiden lassen:divorcer
+die Inszenierung:la mise en scène
+der Staub:la poussière
+der Tisch abräumen:débarasser la table
+die Wäsche falten:plier le linge
+verhindern:empêcher
+zuletzt:dernièrement
+vorher:auparavant
+fallen:tomber
+fangen:attraper
+hängen:être suspendu
+lassen:laisser
+raten:conseiller
+backen:cuire au four
+graben:creuser
+laden:charger
+messen:mesurer
+brechen:briser
+gelten:valoir
+greifen:saisir
+pfeifen:siffler
+reissen:arracher
+streiten:se disputer
+weichen:céder
