@@ -1,3 +1,5 @@
+/* GENERAL BINDS */
+
 * {
     margin: 0;
     padding: 0;
@@ -13,6 +15,11 @@ body {
     display: grid;
     grid-template-columns: 15% 1fr;
 }
+
+/* END GENERAL BINDS */
+
+
+/* MAIN CONTENT */
 
 .sidebar {
     background-color: #d5d5d898;
@@ -54,18 +61,12 @@ body {
     outline: none;
 }
 
-.cards button:hover {
-    transition: .5s;
-    background-color: rgb(8, 42, 85);
-    cursor: pointer;
-}
-
 h2 {
     padding: 1rem;
     color: #FFF;
 }
 
-.to-guess {
+span.to-guess {
     font-family: 'Rowdies', cursive;
     font-weight: bold;
     color: rgb(255, 43, 6);
@@ -81,14 +82,16 @@ h2 {
 
 }
 
-.result-comment {
+h3.result-comment {
     font-family: 'Roboto', sans-serif;
     color: rgb(228, 223, 207);
     padding: 1rem;
 }
 
-.result-comment-translation {
+h4.result-comment-translation {
     padding: 1rem;
     font-family: 'Roboto', sans-serif;
     color: rgba(228, 223, 207, 0.671);
 }
+
+/* END MAIN CONTENT */
